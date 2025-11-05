@@ -105,5 +105,3 @@ coding-interview-tracker/
 5. **Search problems** by name for quick access
 
 ---
-
-**Happy Coding! 🚀**

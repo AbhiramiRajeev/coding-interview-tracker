@@ -1,8 +1,6 @@
-# 🎯 Coding Interview Tracker
+# Coding Interview Tracker
 
 A React-based application to track your progress through 28 DSA patterns with 300+ coding problems.
-
-## 🚀 Quick Start (After System Restart)
 
 ### Prerequisites
 - Node.js (version 14 or higher)
